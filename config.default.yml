@@ -1,0 +1,3 @@
+account-mapping:
+  'acc1': 'bank-1-current'
+  'acc2': 'bank-1-savings'

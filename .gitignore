@@ -1,0 +1,7 @@
+# Project-specific
+data/
+config.yml
+src/categorize.py
+
+# Python
+__pycache__/
